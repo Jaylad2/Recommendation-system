@@ -12,4 +12,4 @@
 
 *MENTOR*: NEELA SANTOSH
 
-*DESCRIPTION*: A Decision Tree Model is a supervised machine learning algorithm used for both classification and regression tasks. It is a tree-like structure where decisions are made by splitting the dataset based on feature values.
+*DESCRIPTION*:A Recommendation System is a machine learning-based application designed to provide personalized suggestions to users. It predicts user preferences based on past behaviors, interactions, or similarities with other users or items. Recommendation systems are widely used in domains like e-commerce, streaming services, and social media to improve user experience and engagement.
